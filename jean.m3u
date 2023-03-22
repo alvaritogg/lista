@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY NEWS HD" tvg-logo="" group-title="UK",UK: SKY NEWS HD
+http://389855765499437293.onames.xyz:80/play/fe1025562/2339666476/437293.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: SKY NEWS SD" tvg-logo="" group-title="UK",UK: SKY NEWS SD
+http://389855765499436192.onames.xyz:80/play/fe1025562/2339666476/436192.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC NEWS SD" tvg-logo="" group-title="UK",UK: BBC NEWS SD
+http://389855765499427606.onames.xyz:80/play/fe1025562/2339666476/427606.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC NEWS FHD" tvg-logo="" group-title="UK",UK: BBC NEWS FHD
+http://389855765499436139.onames.xyz:80/play/fe1025562/2339666476/436139.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="UK",UK: BBC ONE HD
+http://389855765499416035.onames.xyz:80/play/fe1025562/2339666476/416035.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE LONDON FHD" tvg-logo="" group-title="UK",UK: BBC ONE LONDON FHD
+http://389855765499437253.onames.xyz:80/play/fe1025562/2339666476/437253.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: AL JAZEERA ENGLISH FHD" tvg-logo="" group-title="UK",UK: AL JAZEERA ENGLISH FHD
+http://389855765499435015.onames.xyz:80/play/fe1025562/2339666476/435015.ts
+#EXTINF:-1 tvg-id="" tvg-name="UK: BBC TWO FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="UK",UK: BBC TWO FHD
+http://389855765499436146.onames.xyz:80/play/fe1025562/2339666476/436146.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BOX HITS SD" tvg-logo="" group-title="UK",UK: BOX HITS SD
 http://389855765499402717.onames.xyz:80/play/fe1025562/2339666476/402717.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: CARTOONITO SD" tvg-logo="" group-title="UK",UK: CARTOONITO SD
@@ -45,8 +61,6 @@ http://389855765499409862.onames.xyz:80/play/fe1025562/2339666476/409862.ts
 http://389855765499414716.onames.xyz:80/play/fe1025562/2339666476/414716.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BT SPORT 2  FHD 50FPS SD" tvg-logo="" group-title="UK Sport",UK: BT SPORT 2  FHD 50FPS SD
 http://389855765499415213.onames.xyz:80/play/fe1025562/2339666476/415213.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-one-uk.png?raw=true" group-title="UK",UK: BBC ONE HD
-http://389855765499416035.onames.xyz:80/play/fe1025562/2339666476/416035.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: ITV 4 SD" tvg-logo="" group-title="UK",UK: ITV 4 SD
 http://389855765499416058.onames.xyz:80/play/fe1025562/2339666476/416058.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: REALLY SD" tvg-logo="" group-title="UK",UK: REALLY SD
@@ -113,8 +127,6 @@ http://389855765499426922.onames.xyz:80/play/fe1025562/2339666476/426922.ts
 http://389855765499426947.onames.xyz:80/play/fe1025562/2339666476/426947.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: 4SEVEN SD" tvg-logo="" group-title="UK",UK: 4SEVEN SD
 http://389855765499427599.onames.xyz:80/play/fe1025562/2339666476/427599.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC NEWS SD" tvg-logo="" group-title="UK",UK: BBC NEWS SD
-http://389855765499427606.onames.xyz:80/play/fe1025562/2339666476/427606.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE SOUTH  SD" tvg-logo="" group-title="UK",UK: BBC ONE SOUTH  SD
 http://389855765499427609.onames.xyz:80/play/fe1025562/2339666476/427609.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: CHALLENGE SD" tvg-logo="" group-title="UK",UK: CHALLENGE SD
@@ -253,8 +265,6 @@ http://389855765499434215.onames.xyz:80/play/fe1025562/2339666476/434215.ts
 http://389855765499434216.onames.xyz:80/play/fe1025562/2339666476/434216.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: UTSAV BHARAT SD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/utsav-bharat-uk.png?raw=true" group-title="UK",UK: UTSAV BHARAT SD
 http://389855765499434218.onames.xyz:80/play/fe1025562/2339666476/434218.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: AL JAZEERA ENGLISH FHD" tvg-logo="" group-title="UK",UK: AL JAZEERA ENGLISH FHD
-http://389855765499435015.onames.xyz:80/play/fe1025562/2339666476/435015.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ALBA HD" tvg-logo="" group-title="UK",UK: BBC ALBA HD
 http://389855765499435017.onames.xyz:80/play/fe1025562/2339666476/435017.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE WALES FHD" tvg-logo="" group-title="UK",UK: BBC ONE WALES FHD
@@ -309,8 +319,6 @@ http://389855765499436134.onames.xyz:80/play/fe1025562/2339666476/436134.ts
 http://389855765499436135.onames.xyz:80/play/fe1025562/2339666476/436135.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: ARIRANG HD" tvg-logo="" group-title="UK",UK: ARIRANG HD
 http://389855765499436138.onames.xyz:80/play/fe1025562/2339666476/436138.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC NEWS FHD" tvg-logo="" group-title="UK",UK: BBC NEWS FHD
-http://389855765499436139.onames.xyz:80/play/fe1025562/2339666476/436139.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE NORTHERN IRELAND SD" tvg-logo="" group-title="UK",UK: BBC ONE NORTHERN IRELAND SD
 http://389855765499436140.onames.xyz:80/play/fe1025562/2339666476/436140.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE OXFORD HD" tvg-logo="" group-title="UK",UK: BBC ONE OXFORD HD
@@ -319,8 +327,6 @@ http://389855765499436141.onames.xyz:80/play/fe1025562/2339666476/436141.ts
 http://389855765499436142.onames.xyz:80/play/fe1025562/2339666476/436142.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC PARLIAMENT FHD" tvg-logo="" group-title="UK",UK: BBC PARLIAMENT FHD
 http://389855765499436144.onames.xyz:80/play/fe1025562/2339666476/436144.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC TWO FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/bbc-two-uk.png?raw=true" group-title="UK",UK: BBC TWO FHD
-http://389855765499436146.onames.xyz:80/play/fe1025562/2339666476/436146.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: CARTOON NETWORK SD" tvg-logo="" group-title="UK",UK: CARTOON NETWORK SD
 http://389855765499436148.onames.xyz:80/play/fe1025562/2339666476/436148.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: CBS JUSTICE SD" tvg-logo="" group-title="UK",UK: CBS JUSTICE SD
@@ -375,8 +381,6 @@ http://389855765499436184.onames.xyz:80/play/fe1025562/2339666476/436184.ts
 http://389855765499436185.onames.xyz:80/play/fe1025562/2339666476/436185.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY CINEMA ANIMATION HEVC" tvg-logo="" group-title="UK",UK: SKY CINEMA ANIMATION HEVC
 http://389855765499436186.onames.xyz:80/play/fe1025562/2339666476/436186.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY NEWS SD" tvg-logo="" group-title="UK",UK: SKY NEWS SD
-http://389855765499436192.onames.xyz:80/play/fe1025562/2339666476/436192.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: SPOTLIGHT TV HD" tvg-logo="" group-title="UK",UK: SPOTLIGHT TV HD
 http://389855765499436194.onames.xyz:80/play/fe1025562/2339666476/436194.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: STV FHD" tvg-logo="" group-title="UK",UK: STV FHD
@@ -391,8 +395,6 @@ http://389855765499437250.onames.xyz:80/play/fe1025562/2339666476/437250.ts
 http://389855765499437251.onames.xyz:80/play/fe1025562/2339666476/437251.ts
 #EXTINF:-1 tvg-id="4seven.uk" tvg-name="UK: BBC ONE CHANNEL ISLANDS FHD" tvg-logo="" group-title="UK",UK: BBC ONE CHANNEL ISLANDS FHD
 http://389855765499437252.onames.xyz:80/play/fe1025562/2339666476/437252.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE LONDON FHD" tvg-logo="" group-title="UK",UK: BBC ONE LONDON FHD
-http://389855765499437253.onames.xyz:80/play/fe1025562/2339666476/437253.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE NORTH WEST FHD" tvg-logo="" group-title="UK",UK: BBC ONE NORTH WEST FHD
 http://389855765499437254.onames.xyz:80/play/fe1025562/2339666476/437254.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: BBC ONE WEST MIDLANDS FHD" tvg-logo="" group-title="UK",UK: BBC ONE WEST MIDLANDS FHD
@@ -471,8 +473,6 @@ http://389855765499437290.onames.xyz:80/play/fe1025562/2339666476/437290.ts
 http://389855765499437291.onames.xyz:80/play/fe1025562/2339666476/437291.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY MAX SD" tvg-logo="" group-title="UK",UK: SKY MAX SD
 http://389855765499437292.onames.xyz:80/play/fe1025562/2339666476/437292.ts
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY NEWS HD" tvg-logo="" group-title="UK",UK: SKY NEWS HD
-http://389855765499437293.onames.xyz:80/play/fe1025562/2339666476/437293.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SHOWCASE FHD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/united-kingdom/sky-showcase-uk.png?raw=true" group-title="UK",UK: SKY SHOWCASE FHD
 http://389855765499437294.onames.xyz:80/play/fe1025562/2339666476/437294.ts
 #EXTINF:-1 tvg-id="" tvg-name="UK: TCM HD" tvg-logo="" group-title="UK",UK: TCM HD
